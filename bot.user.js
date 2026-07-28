@@ -10,7 +10,7 @@
     'use strict';
 
     // ============================================================================
-    // --- SISTEMA DE LICENCIAMENTO (API DO GOOGLE SHEETS) ---
+    // 
     // ============================================================================
     const _0x1a2b = "https://script.google.com/macros/s/AKfycbwLth2lN0S26YuZriqkLsBEHBnvM3HY9zBsmGgo8Q2O_9fk7dYjh1qqUjeeG-0CA6uc/exec";
 
